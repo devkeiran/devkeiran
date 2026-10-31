@@ -1,29 +1,15 @@
-<div align="center">
+# Olá, eu sou Fabricio (KeiraN) 👋
 
-# Olá, eu sou Keiran 👋
+Construindo ideias, explorando tecnologia e aprendendo pelo caminho.
 
-**Ideias, código e projetos tomando forma.**
+## Projeto em destaque
 
-Bem-vindo ao meu cantinho no GitHub! Por aqui compartilho o que estou criando e aprendendo pelo caminho.
+### [Ninho Drop](https://github.com/devkeiran/ninho-drop) 🪺
 
-[![GitHub](https://img.shields.io/badge/GitHub-devkeiran-181717?style=for-the-badge&logo=github)](https://github.com/devkeiran)
+Uma prateleira para a área de transferência no Windows. Textos, imagens, links e arquivos ficam à mão, na borda da tela — prontos para colar ou arrastar.
 
-</div>
-
----
-
-### 🪺 Em destaque: Ninho Drop
-
-Uma prateleira para a área de transferência no Windows: textos, imagens, links e arquivos ficam à mão, na borda da tela. O projeto é baseado no Edge-Drop e está ganhando sua própria identidade.
-
-**Copie. Guarde. Arraste.**
-
-➡️ [Conheça o Ninho Drop](https://github.com/devkeiran/ninho-drop)
+O Ninho Drop é baseado no [Edge-Drop](https://github.com/Deepender25/Edge-Drop) e está ganhando sua própria identidade.
 
 ---
 
-<div align="center">
-
-✨ Obrigado pela visita! ✨
-
-</div>
+<sub>Obrigado pela visita.</sub>
